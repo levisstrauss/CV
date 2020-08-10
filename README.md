@@ -2,7 +2,7 @@
 
 # Kategnimin Coulibaly
 
-I'm a developer, with a background as a kids app entrepreneur.
+I' am student in computer science
 
 I enjoy building digital products that either solve problems or entertain people. Preferrably in Javascript or Python.
 

@@ -2,11 +2,7 @@
 
 # Kategnimin Coulibaly
 
-I' am student in computer science
-
-I enjoy building digital products that either solve problems or entertain people. Preferrably in Javascript or Python.
-
-I'm self driven, hard working and easy going.
+Hi, I am Coulibaly, a computer science student at Community College of Philadelphia. Passionate about learning, I'd love to be a part of a team, building products for solving life problems.
 
 ## Technical skills:
 
@@ -14,11 +10,13 @@ I'm self driven, hard working and easy going.
 
 * Javascript
 * Python
+* Java 
+
 
 **Front-end:**
 
 * HTML
-* CSS & Sass
+* CSS
 * jQuery
 * Twitter Bootstrap
 * React JS
@@ -28,7 +26,6 @@ I'm self driven, hard working and easy going.
 
 * MongoDB
 * Node JS
-* Django
 
 **Machine Learning / Data Science:**
 * Numpy

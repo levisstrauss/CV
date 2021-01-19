@@ -2,8 +2,7 @@
 
 # Kategnimin Coulibaly
 
-Hi, I am Coulibaly, a computer science student at Community College of Philadelphia. Passionate about learning, I'd love to be a part of a team, building products for solving life problems.
-
+Hi, I am Coulibaly, a computer science student at Community College of Philadelphia.
 ## Technical skills:
 
 **Languages:**

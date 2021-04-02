@@ -1,8 +1,6 @@
 # CV
 
-# Kategnimin Coulibaly
 
-Hi, I am Coulibaly, a computer science student at Community College of Philadelphia.
 ## Technical skills:
 
 **Languages:**
